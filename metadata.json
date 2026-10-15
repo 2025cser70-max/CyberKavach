@@ -1,0 +1,8 @@
+{
+  "name": "Cyber Kavach",
+  "description": "Scam checker designed for elderly and rural users in India to detect calls, SMS, WhatsApp, and link frauds with multilingual voice support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
